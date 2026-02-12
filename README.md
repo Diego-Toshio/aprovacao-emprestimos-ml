@@ -31,7 +31,7 @@ reduzindo a concessão de crédito para clientes com maior risco de inadimplênc
 
 ## 📁 Estrutura do Repositório
 aprovacao-emprestimos-ml/
-- Aprovacao_Emprestimos_Classificacao_Profissional.ipynb
+- Aprovacao_Emprestimos_Classificacao.ipynb
 - data/
   - emprestimo_dataset.csv
 - README.md
